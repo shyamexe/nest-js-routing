@@ -29,7 +29,7 @@ export default function RootLayout({
         {children}
 
         <footer style={{
-        backgroundColor: "lightpink",
+        backgroundColor: "lightsteelblue",
         padding: "1rem",
       }}>
           <p>HI 2023 My Company. All rights reserved.</p>
