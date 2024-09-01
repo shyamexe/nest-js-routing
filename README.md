@@ -20,6 +20,9 @@
 - Loading ui
 - Error handling
 - Recovering from error
+- Handling error in nested routes
+- Handling error in layout
+- 
 
 
 
