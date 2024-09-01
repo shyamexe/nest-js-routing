@@ -25,6 +25,8 @@
 - Parallel Route *
 - Learned unmatched routes *
 - Conditional routes 
+- Intercepting route *
+
 
 
 
