@@ -1,5 +1,24 @@
 # Routing (NEXT JS)
-- 
+- Page routing 
+- Nested routing
+- Dynamic routing
+- Nested dynamic routing
+- Catch all segments
+- Optional Catch all segments
+- Not fount page 
+- File Collocation
+- Private Folder
+- Route groups
+- Nested layouts
+- Route group layout
+- Routing Metadata
+- Title Metadata
+- Link Component
+- Active Links
+- Navigating pragmatically
+- Template
+- Loading ui
+- Error handling
 
 
 
