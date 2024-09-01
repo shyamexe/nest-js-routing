@@ -24,6 +24,7 @@
 - Handling error in layout
 - Parallel Route *
 - Learned unmatched routes *
+- Conditional routes 
 
 
 
