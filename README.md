@@ -19,6 +19,7 @@
 - Template
 - Loading ui
 - Error handling
+- Recovering from error
 
 
 
