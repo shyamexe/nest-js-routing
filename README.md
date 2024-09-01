@@ -11,18 +11,18 @@
 - Route groups
 - Nested layouts
 - Route group layout
-- Routing Metadata
-- Title Metadata
+- Routing Metadata *
+- Title Metadata *
 - Link Component
 - Active Links
 - Navigating pragmatically
-- Template
+- Template *
 - Loading ui
 - Error handling
 - Recovering from error
 - Handling error in nested routes
 - Handling error in layout
-- 
+- Parallel Route *
 
 
 
